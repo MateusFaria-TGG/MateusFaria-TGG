@@ -33,33 +33,21 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![Ruby](https://img.shields.io/badge/-ruby-f00?style=flat-square&logo=ruby)
   ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-  
 
-  
-
-
-
-
-  
-
-  
-
-
-
-  
 <section style="display: flex">
-  <img align="right" alt="darth-vader" height='200' width='200' src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+  <img align="right" alt="darth-vader" height='200' width='250' src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
 </section>
   
  ##
-  
+
 <div align="center"> 
-  
+    
   <a href="https://www.linkedin.com/in/mateus-faria-3902a4ab" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt='linkedIn-Logo' align='right'>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt='linkedIn-Logo' align='right'/>
   </a>
-  
-  
+
 </div>
-  
+
+<img src='https://github.com/matfaria/matfaria/blob/main/github-user-contribution.svg' alt='snake' width='680'/>
+
 </section>
