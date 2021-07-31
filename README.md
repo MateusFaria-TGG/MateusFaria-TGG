@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working as System Web Analyst
 - 🌱 I’m currently learning System Architecture, React and Java ecosystem.
+- 🎥 Favourite hobbies: Watch movies, series and play video games.
 
 ##
 
