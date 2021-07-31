@@ -1,7 +1,7 @@
 ### Hi, I'm Mateus Faria 👋
 
-- 🔭 I’m currently working on NewGo Technology
-- 🌱 I’m currently learning Architecture, React and Java ecosystem.
+- 🔭 I’m currently working as System Web Analyst
+- 🌱 I’m currently learning System Architecture, React and Java ecosystem.
 
 ##
 
