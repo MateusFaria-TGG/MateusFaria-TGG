@@ -6,9 +6,9 @@
 ##
 
 <section align="center" >
-    <a href="https://github.com/MateusFaria-TGG">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusFaria-TGG&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFaria-TGG&layout=compact&langs_count=7&theme=prussian"/>
+    <a href="https://github.com/matfaria">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matfaria&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matfaria&layout=compact&langs_count=7&theme=prussian"/>
   </a>
 </section>
   
