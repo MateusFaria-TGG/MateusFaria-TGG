@@ -1,7 +1,7 @@
 ### Hi, I'm Mateus Faria 👋
 
-- 🔭 I’m currently working as System Web Analyst
-- 🌱 I’m currently learning System Architecture, React and Java ecosystem.
+- 🔭 I’m currently working as Mid Backend Developer
+- 🌱 I’m currently learning System Architecture, React and Golang ecosystem.
 - 🎥 Favourite hobbies: Watch movies, series and play video games.
 
 ##
