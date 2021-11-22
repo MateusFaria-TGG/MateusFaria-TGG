@@ -49,6 +49,4 @@
 
 </div>
 
-<img src='https://github.com/matfaria/matfaria/blob/main/github-user-contribution.svg' alt='snake' width='580'/>
-
 </section>
