@@ -1,6 +1,6 @@
 ### Hi, I'm Mateus Faria 👋
 
-- 🔭 I’m currently working as Mid Backend Developer
+- 🔭 I’m currently working as Senior Fullstack Developer
 - 🌱 I’m currently learning System Architecture, React and Golang ecosystem.
 - 🎥 Favourite hobbies: Watch movies, series and play video games.
 
